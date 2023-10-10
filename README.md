@@ -6,6 +6,7 @@ Submissions
 ## Platforms
 * [Codeforces](#codeforces)
 * [CSES](#cses)
+* [Vjudge](#vjudge)
 
 ## Codeforces<a name="codeforces"></a>
 | # | Problem | Solution | Tags | Submitted |
@@ -1810,5 +1811,237 @@ Submissions
 3 | [Coin Combinations I](https://cses.fi/problemset/task/1635/) | [C++11](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/CSES/Dynamic_Programming/Coin_Combinations_I.cpp) | Dynamic Programming | 2022-10-27 12:32 |
 2 | [Minimizing Coins](https://cses.fi/problemset/task/1634/) | [C++11](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/CSES/Dynamic_Programming/Minimizing_Coins.cpp) | Dynamic Programming | 2022-10-27 12:26 |
 1 | [Dice Combinations](https://cses.fi/problemset/task/1633/) | [C++11](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/CSES/Dynamic_Programming/Dice_Combinations.cpp) | Dynamic Programming | 2022-10-27 12:21 |
+
+## Vjudge<a name="vjudge"></a>
+| # | Problem | Solution | Submitted |
+| - |  -----  | -------- | --------- |
+228 | [Query On Strings](https://vjudge.net/problem/CodeChef-NPLFLF) | [C++14 (gcc 11.1.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeChef/NPLFLF.cpp) | 2023:05:05 23:06 |
+227 | [Try to complete](https://vjudge.net/problem/SPOJ-TRYCOMP) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/TRYCOMP.cpp) | 2023:05:05 22:37 |
+226 | [Snake Eating](https://vjudge.net/problem/CodeChef-SNAKEEAT) | [C++17 (gcc 11.1.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeChef/SNAKEEAT.cpp) | 2023:05:04 22:43 |
+225 | [Treats for the Cows](https://vjudge.net/problem/SPOJ-TRT) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/TRT.cpp) | 2023:05:04 21:51 |
+224 | [Shopping](https://vjudge.net/problem/SPOJ-SHOP) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/SHOP.cpp) | 2023:05:04 21:40 |
+223 | [Path Graph?](https://vjudge.net/problem/AtCoder-abc287_c) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc287_c.cpp) | 2023:05:04 21:14 |
+222 | [Four Points](https://vjudge.net/problem/AtCoder-abc246_a) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc246_a.cpp) | 2023:05:04 21:00 |
+221 | [RANDOM](https://vjudge.net/problem/AtCoder-abc279_c) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc279_c.cpp) | 2023:05:04 20:58 |
+220 | [Unique Nicknames](https://vjudge.net/problem/AtCoder-abc247_b) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc247_b.cpp) | 2023:05:04 20:52 |
+219 | [Belt Conveyor](https://vjudge.net/problem/AtCoder-abc265_c) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc265_c.cpp) | 2023:05:04 20:48 |
+218 | [Poem Online Judge](https://vjudge.net/problem/AtCoder-abc251_c) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc251_c.cpp) | 2023:05:04 20:31 |
+217 | [At Most 3 (Judge ver.)](https://vjudge.net/problem/AtCoder-abc251_b) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc251_b.cpp) | 2023:05:04 20:21 |
+216 | [Digit Machine](https://vjudge.net/problem/AtCoder-abc241_a) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc241_a.cpp) | 2023:05:04 20:14 |
+215 | [Shampoo](https://vjudge.net/problem/AtCoder-abc243_a) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc243_a.cpp) | 2023:05:04 20:10 |
+214 | [Rotate](https://vjudge.net/problem/AtCoder-abc235_a) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc235_a.cpp) | 2023:05:04 20:05 |
+213 | [Water Pressure](https://vjudge.net/problem/AtCoder-abc231_a) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc231_a.cpp) | 2023:05:04 20:01 |
+212 | [Jumping Champion](https://vjudge.net/problem/UVA-914) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/914.cpp) | 2023:01:05 10:22 |
+211 | [Goldbach's Conjecture (II)](https://vjudge.net/problem/UVA-686) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/686.cpp) | 2023:01:05 04:34 |
+210 | [Goldbach's Conjecture](https://vjudge.net/problem/UVA-543) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/543.cpp) | 2023:01:05 04:27 |
+209 | [To Carry or not to Carry](https://vjudge.net/problem/UVA-10469) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10469.cpp) | 2023:01:03 01:49 |
+208 | [Firetrucks Are Red](https://vjudge.net/problem/Gym-102500F) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/Gym/102500F.cpp) | 2022:10:15 13:53 |
+207 | [Boredom](https://vjudge.net/problem/CodeForces-455A) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/455A.cpp) | 2022:10:12 00:47 |
+206 | [Princess Farida](https://vjudge.net/problem/SPOJ-FARIDA) | [C++ (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/FARIDA.cpp) | 2022:10:12 00:31 |
+205 | [Coin Change](https://vjudge.net/problem/UVA-674) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/674.cpp) | 2022:10:12 00:17 |
+204 | [Wachovia Bank](https://vjudge.net/problem/SPOJ-WACHOVIA) | [C++ (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/WACHOVIA.cpp) | 2022:10:12 00:07 |
+203 | [Easy Longest Increasing Subsequence](https://vjudge.net/problem/SPOJ-ELIS) | [C++ (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/ELIS.cpp) | 2022:10:11 23:55 |
+202 | [Airport Setup](https://vjudge.net/problem/UVA-11377) | [C++ 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/11377.cpp) | 2022:10:11 13:46 |
+201 | [Page Hopping](https://vjudge.net/problem/UVA-821) | [C++ 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/821.cpp) | 2022:10:11 13:02 |
+200 | [Traffic](https://vjudge.net/problem/UVA-10449) | [C++ 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10449.cpp) | 2022:10:11 12:10 |
+199 | [Even Obsession](https://vjudge.net/problem/UVA-12950) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/12950.cpp) | 2022:10:11 01:19 |
+198 | [Morning Walk](https://vjudge.net/problem/UVA-10596) | [C++ 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10596.cpp) | 2022:10:10 23:36 |
+197 | [Airline Comparison](https://vjudge.net/problem/UVA-869) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/869.cpp) | 2022:10:09 00:52 |
+196 | [Roads in Berland](https://vjudge.net/problem/CodeForces-25C) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/25C.cpp) | 2022:10:09 00:32 |
+195 | [Audiophobia](https://vjudge.net/problem/UVA-10048) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10048.cpp) | 2022:10:09 00:06 |
+194 | [Battle](https://vjudge.net/problem/UVA-423) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/423.cpp) | 2022:10:08 23:53 |
+193 | [String Problem](https://vjudge.net/problem/CodeForces-33B) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/33B.cpp) | 2022:10:08 22:07 |
+192 | [The Shortest Path](https://vjudge.net/problem/Gym-101498L) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/Gym/101498L.cpp) | 2022:10:08 21:39 |
+191 | [Score Attack](https://vjudge.net/problem/AtCoder-abc061_d) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc061_d.cpp) | 2022:10:08 21:12 |
+190 | [Defend The Rohan](https://vjudge.net/problem/SPOJ-ROHAAN) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/ROHAAN.cpp) | 2022:10:08 20:57 |
+189 | [Wormholes](https://vjudge.net/problem/UVA-558) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/558.cpp) | 2022:10:08 01:37 |
+188 | [Lift Hopping](https://vjudge.net/problem/UVA-10801) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10801.cpp) | 2022:10:06 13:19 |
+187 | [Number Maze](https://vjudge.net/problem/UVA-929) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/929.cpp) | 2022:10:05 23:30 |
+186 | [COSTLY CHESS](https://vjudge.net/problem/SPOJ-CCHESS) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/CCHESS.cpp) | 2022:10:05 23:16 |
+185 | [Sending email](https://vjudge.net/problem/UVA-10986) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10986.cpp) | 2022:10:03 23:21 |
+184 | [Buy a Ticket](https://vjudge.net/problem/CodeForces-938D) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/938D.cpp) | 2022:10:03 23:13 |
+183 | [Dijkstra?](https://vjudge.net/problem/CodeForces-20C) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/20C.cpp) | 2022:10:03 22:38 |
+182 | [Highways](https://vjudge.net/problem/SPOJ-HIGHWAYS) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/HIGHWAYS.cpp) | 2022:10:03 22:35 |
+181 | [The Tourist Guide](https://vjudge.net/problem/UVA-10099) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10099.cpp) | 2022:10:03 19:34 |
+180 | [COLORFUL ARRAY](https://vjudge.net/problem/SPOJ-CLFLARR) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/CLFLARR.cpp) | 2022:10:03 18:58 |
+179 | [Road Reform](https://vjudge.net/problem/CodeForces-1468J) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1468J.cpp) | 2022:10:03 18:51 |
+178 | [Roads not only in Berland](https://vjudge.net/problem/CodeForces-25D) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/25D.cpp) | 2022:10:03 17:47 |
+177 | [Secret Passwords](https://vjudge.net/problem/CodeForces-1263D) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1263D.cpp) | 2022:10:03 17:35 |
+176 | [Bytelandian Blingors Network](https://vjudge.net/problem/SPOJ-BLINNET) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/BLINNET.cpp) | 2022:10:03 15:20 |
+175 | [Learning Languages](https://vjudge.net/problem/CodeForces-277A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/277A.cpp) | 2022:10:03 14:57 |
+174 | [Love Rescue](https://vjudge.net/problem/CodeForces-939D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/939D.cpp) | 2022:10:03 14:40 |
+173 | [Bitmap](https://vjudge.net/problem/SPOJ-BITMAP) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/BITMAP.cpp) | 2022:10:02 21:08 |
+172 | [Topological Sorting](https://vjudge.net/problem/SPOJ-TOPOSORT) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/TOPOSORT.cpp) | 2022:10:02 20:29 |
+171 | [Brain Network (medium)](https://vjudge.net/problem/CodeForces-690C2) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/690C2.cpp) | 2022:10:02 20:00 |
+170 | [Fire Again](https://vjudge.net/problem/CodeForces-35C) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/35C.cpp) | 2022:10:02 01:30 |
+169 | [A Secret Book](https://vjudge.net/problem/UVA-439) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/439.cpp) | 2022:10:02 00:51 |
+168 | [DZY Loves Chemistry](https://vjudge.net/problem/CodeForces-445B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/445B.cpp) | 2022:10:01 21:24 |
+167 | [Ordering Tasks](https://vjudge.net/problem/UVA-10305) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10305.cpp) | 2022:10:01 21:14 |
+166 | [PolandBall and Forest](https://vjudge.net/problem/CodeForces-755C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/755C.cpp) | 2022:10:01 21:09 |
+165 | [Party](https://vjudge.net/problem/CodeForces-115A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/115A.cpp) | 2022:10:01 20:51 |
+164 | [Friends](https://vjudge.net/problem/UVA-10608) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10608.cpp) | 2022:10:01 20:34 |
+163 | [Pick up sticks](https://vjudge.net/problem/UVA-11686) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/11686.cpp) | 2022:10:01 20:23 |
+162 | [A Bug’s Life](https://vjudge.net/problem/SPOJ-BUGLIFE) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/BUGLIFE.cpp) | 2022:10:01 19:47 |
+161 | [Is it a tree](https://vjudge.net/problem/SPOJ-PT07Y) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/PT07Y.cpp) | 2022:10:01 19:34 |
+160 | [Similar Strings](https://vjudge.net/problem/Gym-100247B) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/Gym/100247B.cpp) | 2022:09:29 22:52 |
+159 | [K-Subarrays](https://vjudge.net/problem/CodeChef-KSUB) | [C++17 (gcc 11.1.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeChef/KSUB.cpp) | 2022:09:29 22:32 |
+158 | [Prefix K-th Max](https://vjudge.net/problem/AtCoder-abc234_d) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc234_d.cpp) | 2022:09:29 20:56 |
+157 | [Brick](https://vjudge.net/problem/AtCoder-abc186_a) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc186_a.cpp) | 2022:09:29 20:22 |
+156 | [Resale](https://vjudge.net/problem/AtCoder-abc125_b) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc125_b.cpp) | 2022:09:29 20:16 |
+155 | [pushpush](https://vjudge.net/problem/AtCoder-arc077_a) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/arc077_a.cpp) | 2022:09:29 19:55 |
+154 | [Counting Primes](https://vjudge.net/problem/SPOJ-CNTPRIME) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/CNTPRIME.cpp) | 2022:09:29 16:03 |
+153 | [Multiples of 3](https://vjudge.net/problem/SPOJ-MULTQ3) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/MULTQ3.cpp) | 2022:09:29 15:37 |
+152 | [Circular RMQ](https://vjudge.net/problem/CodeForces-52C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/52C.cpp) | 2022:09:29 15:16 |
+151 | [Light Switching](https://vjudge.net/problem/SPOJ-LITE) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/LITE.cpp) | 2022:09:29 14:25 |
+150 | [Horrible Queries](https://vjudge.net/problem/SPOJ-HORRIBLE) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/HORRIBLE.cpp) | 2022:09:29 14:14 |
+149 | [SUM and REPLACE](https://vjudge.net/problem/CodeForces-920F) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/920F.cpp) | 2022:09:28 19:43 |
+148 | [Range Xor Query](https://vjudge.net/problem/AtCoder-abc185_f) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc185_f.cpp) | 2022:09:27 11:19 |
+147 | [Ant colony](https://vjudge.net/problem/CodeForces-474F) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/474F.cpp) | 2022:09:27 11:05 |
+146 | [Xenia and Bit Operations](https://vjudge.net/problem/CodeForces-339D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/339D.cpp) | 2022:09:27 10:32 |
+145 | [Maximum Sum](https://vjudge.net/problem/SPOJ-KGSS) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/KGSS.cpp) | 2022:09:27 09:36 |
+144 | [Green Bin](https://vjudge.net/problem/AtCoder-abc137_c) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc137_c.cpp) | 2022:09:26 21:51 |
+143 | [Subarray Sum](https://vjudge.net/problem/AtCoder-keyence2020_c) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/keyence2020_c.cpp) | 2022:09:26 21:42 |
+142 | [A x B + C](https://vjudge.net/problem/AtCoder-abc179_c) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc179_c.cpp) | 2022:09:26 21:24 |
+141 | [Bomb the base](https://vjudge.net/problem/CodeChef-BOMBTHEBASE) | [C++17 (gcc 11.1.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeChef/BOMBTHEBASE.cpp) | 2022:09:26 21:14 |
+140 | [Apple](https://vjudge.net/problem/AtCoder-abc265_a) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc265_a.cpp) | 2022:09:26 21:00 |
+139 | [Distinct Characters Queries](https://vjudge.net/problem/CodeForces-1234D) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1234D.cpp) | 2022:09:26 20:33 |
+138 | [Potentiometers](https://vjudge.net/problem/UVA-12086) | [C++ 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/12086.cpp) | 2022:09:26 19:50 |
+137 | [STONE GAME](https://vjudge.net/problem/CodeChef-RESN04) | [C++17 (gcc 11.1.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeChef/RESN04.cpp) | 2022:09:24 20:09 |
+136 | [Trucks](https://vjudge.net/problem/UVA-12655) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/12655.cpp) | 2022:09:22 14:23 |
+135 | [Nlogonian Tickets](https://vjudge.net/problem/SPOJ-NTICKETS) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/NTICKETS.cpp) | 2022:09:22 14:00 |
+134 | [Misha, Grisha and Underground](https://vjudge.net/problem/CodeForces-832D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/832D.cpp) | 2022:09:22 10:05 |
+133 | [Flea circus](https://vjudge.net/problem/UVA-10938) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10938.cpp) | 2022:09:22 08:46 |
+132 | [Lowest Common Ancestor](https://vjudge.net/problem/SPOJ-LCA) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/LCA.cpp) | 2022:09:22 08:12 |
+131 | [Police Men](https://vjudge.net/problem/SPOJ-POLICEMEN) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/POLICEMEN.cpp) | 2022:09:22 08:04 |
+130 | [Lowest Common Ancestor](https://vjudge.net/problem/SPOJ-LCASQ) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/LCASQ.cpp) | 2022:09:22 08:02 |
+129 | [Program](https://vjudge.net/problem/CodeForces-1473D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1473D.cpp) | 2022:09:20 12:44 |
+128 | [Integers Have Friends](https://vjudge.net/problem/CodeForces-1549D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1549D.cpp) | 2022:09:19 13:21 |
+127 | [CGCDSSQ](https://vjudge.net/problem/CodeForces-475D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/475D.cpp) | 2022:09:19 11:42 |
+126 | [Queries with Fixed Length](https://vjudge.net/problem/HackerRank-queries-with-fixed-length) | [cpp14](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/HackerRank/queries-with-fixed-length.cpp) | 2022:09:19 11:05 |
+125 | [Maximum of Maximums of Minimums](https://vjudge.net/problem/CodeForces-872B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/872B.cpp) | 2022:09:19 08:39 |
+124 | [Catapult that ball](https://vjudge.net/problem/SPOJ-THRBL) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/THRBL.cpp) | 2022:09:19 08:28 |
+123 | [Range Minimum Query](https://vjudge.net/problem/SPOJ-RMQSQ) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/RMQSQ.cpp) | 2022:09:19 08:20 |
+122 | [Bars](https://vjudge.net/problem/UVA-12455) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/12455.cpp) | 2022:09:17 11:04 |
+121 | [Hello Recursion](https://vjudge.net/problem/SPOJ-HRECURS) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/HRECURS.cpp) | 2022:09:17 10:55 |
+120 | [Good Substrings](https://vjudge.net/problem/CodeForces-271D) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/271D.cpp) | 2022:09:14 20:12 |
+119 | [Triangle Encapsulation](https://vjudge.net/problem/UVA-1123) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/1123.cpp) | 2022:09:14 19:46 |
+118 | [Ada and Indexing](https://vjudge.net/problem/SPOJ-ADAINDEX) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/ADAINDEX.cpp) | 2022:09:14 08:38 |
+117 | [Search in the dictionary!](https://vjudge.net/problem/SPOJ-DICT) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/DICT.cpp) | 2022:09:14 08:28 |
+116 | [Phone List](https://vjudge.net/problem/SPOJ-PHONELST) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/PHONELST.cpp) | 2022:09:14 07:52 |
+115 | [Test](https://vjudge.net/problem/CodeForces-25E) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/25E.cpp) | 2022:09:13 20:06 |
+114 | [Password](https://vjudge.net/problem/CodeForces-126B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/126B.cpp) | 2022:09:13 18:47 |
+113 | [Lucky Common Subsequence](https://vjudge.net/problem/CodeForces-346B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/346B.cpp) | 2022:09:13 07:18 |
+112 | [Period](https://vjudge.net/problem/SPOJ-PERIOD) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/PERIOD.cpp) | 2022:09:13 06:15 |
+111 | [File Recover Testing](https://vjudge.net/problem/SPOJ-FILRTEST) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/FILRTEST.cpp) | 2022:09:13 05:16 |
+110 | [Sequence analysis](https://vjudge.net/problem/UVA-455) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/455.cpp) | 2022:09:13 04:07 |
+109 | [Extend to Palindrome](https://vjudge.net/problem/SPOJ-EPALIN) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/EPALIN.cpp) | 2022:09:13 03:58 |
+108 | [A Needle in the Haystack](https://vjudge.net/problem/SPOJ-NHAY) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/NHAY.cpp) | 2022:09:13 03:39 |
+107 | [Pattern Find](https://vjudge.net/problem/SPOJ-NAJPF) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/NAJPF.cpp) | 2022:09:13 03:32 |
+106 | [Almost Equal Strings](https://vjudge.net/problem/HackerRank-almost-equal-strings) | [cpp14](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/HackerRank/almost-equal-strings.cpp) | 2022:09:12 03:10 |
+105 | [Buzzwords](https://vjudge.net/problem/UVA-11855) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/11855.cpp) | 2022:09:12 02:16 |
+104 | [Ada and Spring Cleaning](https://vjudge.net/problem/SPOJ-ADACLEAN) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/ADACLEAN.cpp) | 2022:09:09 20:37 |
+103 | [Histogram](https://vjudge.net/problem/SPOJ-HIST2) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/HIST2.cpp) | 2022:09:06 07:34 |
+102 | [Forming Quiz Teams](https://vjudge.net/problem/UVA-10911) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10911.cpp) | 2022:09:06 06:18 |
+101 | [Playlist for Polycarp (easy version)](https://vjudge.net/problem/CodeForces-1185G1) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1185G1.cpp) | 2022:09:06 05:01 |
+100 | [Collecting Beepers](https://vjudge.net/problem/UVA-10496) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10496.cpp) | 2022:09:06 04:37 |
+99 | [Edit distance](https://vjudge.net/problem/SPOJ-EDIST) | [C++14 (clang 8.0)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/EDIST.cpp) | 2022:09:03 02:40 |
+98 | [Aibohphobia](https://vjudge.net/problem/SPOJ-AIBOHP) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/AIBOHP.cpp) | 2022:09:02 22:07 |
+97 | [Tetrahedron](https://vjudge.net/problem/CodeForces-166E) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/166E.cpp) | 2022:09:02 21:54 |
+96 | [Cutting Sticks](https://vjudge.net/problem/UVA-10003) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10003.cpp) | 2022:09:02 20:49 |
+95 | [Pearls](https://vjudge.net/problem/POJ-1260) | [C++](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/POJ/1260.cpp) | 2022:09:02 05:43 |
+94 | [Cut Ribbon](https://vjudge.net/problem/CodeForces-189A) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/189A.cpp) | 2022:09:02 03:17 |
+93 | [Longest Common Subsequence](https://vjudge.net/problem/UVA-10405) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10405.cpp) | 2022:09:01 18:11 |
+92 | [Jzzhu and Cities](https://vjudge.net/problem/CodeForces-450D) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/450D.cpp) | 2022:08:31 23:21 |
+91 | [Joty and Chocolate](https://vjudge.net/problem/CodeForces-678C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/678C.cpp) | 2022:08:26 00:51 |
+90 | [Math](https://vjudge.net/problem/CodeForces-1062B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1062B.cpp) | 2022:08:25 23:54 |
+89 | [Fedya and Maths](https://vjudge.net/problem/CodeForces-456B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/456B.cpp) | 2022:08:25 22:50 |
+88 | [Bash's Big Day](https://vjudge.net/problem/CodeForces-757B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/757B.cpp) | 2022:08:25 22:15 |
+87 | [k-Factorization](https://vjudge.net/problem/CodeForces-797A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/797A.cpp) | 2022:08:25 21:49 |
+86 | [Mashmokh and Numbers](https://vjudge.net/problem/CodeForces-414A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/414A.cpp) | 2022:08:25 19:30 |
+85 | [T-primes](https://vjudge.net/problem/CodeForces-230B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/230B.cpp) | 2022:08:25 18:55 |
+84 | [Noldbach problem](https://vjudge.net/problem/CodeForces-17A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/17A.cpp) | 2022:08:25 18:38 |
+83 | [Chef Monocarp](https://vjudge.net/problem/CodeForces-1437C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1437C.cpp) | 2022:08:24 21:18 |
+82 | [Red and Blue](https://vjudge.net/problem/CodeForces-1469B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1469B.cpp) | 2022:08:24 20:43 |
+81 | [Ice Skating](https://vjudge.net/problem/CodeForces-217A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/217A.cpp) | 2022:08:23 22:12 |
+80 | [Inversion Graph](https://vjudge.net/problem/CodeForces-1638C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1638C.cpp) | 2022:08:23 21:51 |
+79 | [Cthulhu](https://vjudge.net/problem/CodeForces-103B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/103B.cpp) | 2022:08:22 20:56 |
+78 | [Coloring a Tree](https://vjudge.net/problem/CodeForces-902B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/902B.cpp) | 2022:08:22 20:54 |
+77 | [Caesar's Legions](https://vjudge.net/problem/CodeForces-118D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/118D.cpp) | 2022:08:22 18:28 |
+76 | [Basketball Exercise](https://vjudge.net/problem/CodeForces-1195C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1195C.cpp) | 2022:08:22 17:47 |
+75 | [Frog 2](https://vjudge.net/problem/AtCoder-dp_b) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/dp_b.cpp) | 2022:08:22 01:32 |
+74 | [Flowers](https://vjudge.net/problem/CodeForces-474D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/474D.cpp) | 2022:08:22 01:31 |
+73 | [Grid 1](https://vjudge.net/problem/AtCoder-dp_h) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/dp_h.cpp) | 2022:08:22 01:29 |
+72 | [Longest Path](https://vjudge.net/problem/AtCoder-dp_g) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/dp_g.cpp) | 2022:08:22 01:29 |
+71 | [LCS](https://vjudge.net/problem/AtCoder-dp_f) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/dp_f.cpp) | 2022:08:22 01:28 |
+70 | [Knapsack 1](https://vjudge.net/problem/AtCoder-dp_d) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/dp_d.cpp) | 2022:08:22 01:28 |
+69 | [Vacation](https://vjudge.net/problem/AtCoder-dp_c) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/dp_c.cpp) | 2022:08:22 01:27 |
+68 | [Frog 1](https://vjudge.net/problem/AtCoder-dp_a) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/dp_a.cpp) | 2022:08:22 01:27 |
+67 | [By Elevator or Stairs?](https://vjudge.net/problem/CodeForces-1249E) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1249E.cpp) | 2022:08:22 01:25 |
+66 | [Woodcutters](https://vjudge.net/problem/CodeForces-545C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/545C.cpp) | 2022:08:21 21:22 |
+65 | [Mashmokh and ACM](https://vjudge.net/problem/CodeForces-414B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/414B.cpp) | 2022:08:20 16:59 |
+64 | [k-Tree](https://vjudge.net/problem/CodeForces-431C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/431C.cpp) | 2022:08:20 15:34 |
+63 | [Remote Control](https://vjudge.net/problem/UVA-357) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/357.cpp) | 2022:08:19 18:25 |
+62 | [Bits](https://vjudge.net/problem/CodeForces-484A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/484A.cpp) | 2022:08:13 08:20 |
+61 | [Preparing Olympiad](https://vjudge.net/problem/CodeForces-550B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/550B.cpp) | 2022:08:13 06:48 |
+60 | [The Necklace](https://vjudge.net/problem/UVA-10054) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10054.cpp) | 2022:08:13 00:58 |
+59 | [Play on Words](https://vjudge.net/problem/UVA-10129) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10129.cpp) | 2022:08:13 00:38 |
+58 | [Kuriyama Mirai's Stones](https://vjudge.net/problem/CodeForces-433B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/433B.cpp) | 2022:08:12 11:49 |
+57 | [Cumulative Sum Query](https://vjudge.net/problem/SPOJ-CSUMQ) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/CSUMQ.cpp) | 2022:08:12 11:28 |
+56 | [Weird journey](https://vjudge.net/problem/CodeForces-789D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/789D.cpp) | 2022:08:12 09:55 |
+55 | [Tanya and Password](https://vjudge.net/problem/CodeForces-508D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/508D.cpp) | 2022:08:12 07:46 |
+54 | [Greg and Graph](https://vjudge.net/problem/CodeForces-295B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/295B.cpp) | 2022:08:10 06:17 |
+53 | [Mahmoud and Ehab and the bipartiteness](https://vjudge.net/problem/CodeForces-862B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/862B.cpp) | 2022:08:09 23:35 |
+52 | [Books Exchange (hard version)](https://vjudge.net/problem/CodeForces-1249B2) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1249B2.cpp) | 2022:08:09 23:05 |
+51 | [Rumor](https://vjudge.net/problem/CodeForces-893C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/893C.cpp) | 2022:08:09 22:32 |
+50 | [New Year Transportation](https://vjudge.net/problem/CodeForces-500A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/500A.cpp) | 2022:08:09 21:06 |
+49 | [Arbitrage](https://vjudge.net/problem/SPOJ-ARBITRAG) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/ARBITRAG.cpp) | 2022:08:08 21:48 |
+48 | [Jzzhu and Cities](https://vjudge.net/problem/CodeForces-449B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/449B.cpp) | 2022:08:07 07:14 |
+47 | [It is all about wisdom](https://vjudge.net/problem/Gym-100814G) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/Gym/100814G.cpp) | 2022:08:07 06:28 |
+46 | [Ada and Trip](https://vjudge.net/problem/SPOJ-ADATRIP) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/ADATRIP.cpp) | 2022:08:07 05:31 |
+45 | [Subset Sums](https://vjudge.net/problem/SPOJ-SUBSUMS) | [C++14 (gcc 8.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/SPOJ/SUBSUMS.cpp) | 2022:08:07 02:15 |
+44 | [Maximum Subsequence](https://vjudge.net/problem/CodeForces-888E) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/888E.cpp) | 2022:08:07 01:58 |
+43 | [Cheapest way](https://vjudge.net/problem/UVA-10436) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10436.cpp) | 2022:08:06 06:31 |
+42 | [Edgy Trees](https://vjudge.net/problem/CodeForces-1139C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1139C.cpp) | 2022:08:06 05:40 |
+41 | [Common Subsequence](https://vjudge.net/problem/CodeForces-1382A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1382A.cpp) | 2022:08:05 09:02 |
+40 | [System of Equations](https://vjudge.net/problem/CodeForces-214A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/214A.cpp) | 2022:08:05 08:55 |
+39 | [Missile Silos](https://vjudge.net/problem/CodeForces-144D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/144D.cpp) | 2022:08:05 07:14 |
+38 | [Kefa and Company](https://vjudge.net/problem/CodeForces-580B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/580B.cpp) | 2022:08:02 20:05 |
+37 | [Queries about less or equal elements](https://vjudge.net/problem/CodeForces-600B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/600B.cpp) | 2022:08:02 18:53 |
+36 | [Interesting drink](https://vjudge.net/problem/CodeForces-706B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/706B.cpp) | 2022:08:02 18:49 |
+35 | [Dreamoon and WiFi](https://vjudge.net/problem/CodeForces-476B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/476B.cpp) | 2022:08:02 05:14 |
+34 | [Bitwise Operators](https://vjudge.net/problem/CodeChef-NXS2) | [C++14 (gcc 6.3)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeChef/NXS2.cpp) | 2022:08:02 04:55 |
+33 | [XORwice](https://vjudge.net/problem/CodeForces-1421A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1421A.cpp) | 2022:08:02 04:47 |
+32 | [Harmonious Graph](https://vjudge.net/problem/CodeForces-1253D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1253D.cpp) | 2022:08:02 03:21 |
+31 | [Almost Union-Find](https://vjudge.net/problem/UVA-11987) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/11987.cpp) | 2022:08:02 02:34 |
+30 | [Agri-Net](https://vjudge.net/problem/OpenJ_Bailian-1258) | [G++(9.3(with c++17))](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/OpenJ_Bailian/1258.cpp) | 2022:08:01 21:20 |
+29 | [Asya And Kittens](https://vjudge.net/problem/CodeForces-1131F) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1131F.cpp) | 2022:08:01 20:31 |
+28 | [Mocha and Diana (Easy Version)](https://vjudge.net/problem/CodeForces-1559D1) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1559D1.cpp) | 2022:08:01 15:26 |
+27 | [Replacing Elements](https://vjudge.net/problem/CodeForces-1473A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1473A.cpp) | 2022:08:01 13:01 |
+26 | [Solve The Maze](https://vjudge.net/problem/CodeForces-1365D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1365D.cpp) | 2022:08:01 02:01 |
+25 | [Dorm Water Supply](https://vjudge.net/problem/CodeForces-107A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/107A.cpp) | 2022:07:31 15:33 |
+24 | [Maze](https://vjudge.net/problem/CodeForces-377A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/377A.cpp) | 2022:07:31 14:42 |
+23 | [King's Path](https://vjudge.net/problem/CodeForces-242C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/242C.cpp) | 2022:07:31 01:42 |
+22 | [Andryusha and Colored Balloons](https://vjudge.net/problem/CodeForces-780C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/780C.cpp) | 2022:07:31 00:39 |
+21 | [Valid BFS?](https://vjudge.net/problem/CodeForces-1037D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1037D.cpp) | 2022:07:31 00:01 |
+20 | [Valera and Elections](https://vjudge.net/problem/CodeForces-369C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/369C.cpp) | 2022:07:30 23:12 |
+19 | [Counting Cells in a Blob](https://vjudge.net/problem/UVA-871) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/871.cpp) | 2022:07:30 14:16 |
+18 | [Two Buttons](https://vjudge.net/problem/CodeForces-520B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/520B.cpp) | 2022:07:30 10:40 |
+17 | [Boy or Girl](https://vjudge.net/problem/CodeForces-236A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/236A.cpp) | 2022:07:28 21:16 |
+16 | [Xor-tree](https://vjudge.net/problem/CodeForces-430C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/430C.cpp) | 2022:07:28 20:59 |
+15 | [Nature](https://vjudge.net/problem/UVA-10685) | [C++11 5.3.0](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/UVA/10685.cpp) | 2022:07:28 18:20 |
+14 | [Road Map](https://vjudge.net/problem/CodeForces-34D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/34D.cpp) | 2022:07:28 17:15 |
+13 | [Mail Stamps](https://vjudge.net/problem/CodeForces-29C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/29C.cpp) | 2022:07:28 16:26 |
+12 | [Numbers on Whiteboard](https://vjudge.net/problem/CodeForces-1430C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1430C.cpp) | 2022:07:27 13:15 |
+11 | [Equal Rectangles](https://vjudge.net/problem/CodeForces-1203B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1203B.cpp) | 2022:07:27 12:33 |
+10 | [Kuroni and Impossible Calculation](https://vjudge.net/problem/CodeForces-1305C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1305C.cpp) | 2022:07:27 11:49 |
+9 | [Dominant Piranha](https://vjudge.net/problem/CodeForces-1433C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1433C.cpp) | 2022:07:27 11:21 |
+8 | [Prime Square](https://vjudge.net/problem/CodeForces-1436B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/1436B.cpp) | 2022:07:26 22:25 |
+7 | [Garden](https://vjudge.net/problem/CodeForces-915A) | [Clang++20 Diagnostics](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/915A.cpp) | 2022:07:12 11:36 |
+6 | [Slimes](https://vjudge.net/problem/AtCoder-abc143_c) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc143_c.cpp) | 2022:05:19 13:46 |
+5 | [Circles](https://vjudge.net/problem/Gym-101853I) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/Gym/101853I.cpp) | 2022:05:12 14:19 |
+4 | [Alyona and copybooks](https://vjudge.net/problem/CodeForces-740A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/740A.cpp) | 2022:05:11 23:07 |
+3 | [Alyona and Mex](https://vjudge.net/problem/CodeForces-682B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/CodeForces/682B.cpp) | 2022:05:11 22:31 |
+2 | [One Chicken Per Person!](https://vjudge.net/problem/Kattis-onechicken) | [C++](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/Kattis/onechicken.cpp) | 2022:05:11 21:22 |
+1 | [OddString](https://vjudge.net/problem/AtCoder-abc072_b) | [C++ (GCC 9.2.1)](https://github.com/ahmedMhassan10/Problem-Solving/blob/main/Vjudge/AtCoder/abc072_b.cpp) | 2022:05:11 21:00 |
 
 
